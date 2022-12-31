@@ -55,7 +55,7 @@ export default function Home() {
       <Head>
         <title>2022년 카운트다운</title>
         <meta name="description" content="2022년 카운트다운" />
-        <meta name="viewport" content="width=device-width, initial-scale=1" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <div className="relative flex flex-col justify-center items-center w-full max-w-[700px] mx-auto h-full p-5 bg-[#FEEC25]">
